@@ -8,8 +8,6 @@
 
 #
 
-<img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=LogLucasRocha&show_icons=true&count_private=true&hide_border=true&title_color=9d2a68&icon_color=9d2a68&text_color=c9d1d9&bg_color=0d1117" alt="Lucas Rocha Stats" /><img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LogLucasRocha&layout=compact&hide_border=true&title_color=9d2a68&text_color=ffffff&bg_color=0d1117" />
-
 # Contato📥
 <div align="center">
 <h2>Vamos Conversar!
