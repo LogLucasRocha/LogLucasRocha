@@ -4,4 +4,5 @@
 ![LogLucasRocha GitHub stats](https://github-readme-stats.vercel.app/api?username=LogLucasRocha&show_icons=true&theme=radical)
 
 ## Tecnologias que eu uso no meu dia
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aLogLucasRocha&hide_progress=true)
+[![LogLucasRocha GitHub stats](https://github-readme-stats.vercel.app/api?username=LogLucasRocha)](https://github.com/anuraghazra/github-readme-stats)
+
