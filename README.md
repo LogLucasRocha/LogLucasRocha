@@ -19,6 +19,7 @@
 - Meu nome é Lucas Rocha e sou de São Paulo.<br>
 - Gosto de resolver problemas que envolvam software e matemática.<br>
 - Atualmente estou trabalhando em uma pesquisa de precifição de opções.<br>
+- Trabalho na Área de Prevenção a Fraudes do Itaú<br>
 
 ## 📈 Estatísticas
 
