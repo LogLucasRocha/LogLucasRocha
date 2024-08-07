@@ -9,9 +9,8 @@
 ## 🙍‍ Sobre Mim
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="250px" max-width="250px" width="250px" align="right">
 - Meu nome é Lucas Rocha e sou de São Paulo.<br>
-- Gosto de resolver problemas que envolvam software e matemática.<br>
-- Atualmente estou trabalhando em uma pesquisa de precifição de opções.<br>
-- Trabalho na Área de Prevenção a Fraudes do Itaú<br>
+- Gosto de resolver problemas que envolvam matemática.<br>
+- Atualmente possuo atuação na área de Data & Analytics do Itaú Unibanco<br>
 
 ## 📈 Estatísticas
 
